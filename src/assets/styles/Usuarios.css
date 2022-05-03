@@ -1,0 +1,24 @@
+.Usuarios{
+    text-align: center;
+    height: 100vh;
+    background-color: #ccccea;
+}
+#button-user{
+    background-color: #8594e4;
+    margin: 25px;
+    border-radius: 10px;
+    border: none;
+}
+
+#card-user{
+    background-color: #8594e4;
+    padding: 0;
+    border-radius: 20px;
+    color: #fff;
+    
+}
+
+#card-user-img{
+    border-radius: 20px;
+    height: 250px;
+}

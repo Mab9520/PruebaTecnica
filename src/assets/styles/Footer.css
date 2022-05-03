@@ -1,0 +1,18 @@
+.footer{
+    background-color: #6643b5;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+
+}
+.img-icon{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

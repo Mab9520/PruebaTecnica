@@ -1,0 +1,22 @@
+
+.App{
+    background-color: #d5def5;
+    color: #fff
+}
+.title{
+    text-align: center;
+}
+
+#login{
+    text-align: center;
+    
+    padding-top: 50px;
+    height: 79vh;
+}
+#custom-btn{
+    width: 50%;
+    margin: 25px;
+    border-radius: 10px;
+    background-color: #8594e4;
+    border: none;
+}
